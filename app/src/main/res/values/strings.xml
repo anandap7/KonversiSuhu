@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string name="input_suhu">Dari suhu</string>
+    <string name="hint">Input here</string>
+    <string name="Konversi_ke">Konversi ke suhu</string>
+    <string-array name="pil_suhu">
+        <item>°R</item>
+        <item>°C</item>
+        <item>K</item>
+        <item>°F</item>
+    </string-array>
+    <string name="reset">Reset</string>
+    <string name="convert">Convert</string>
+    <string name="dev">by anandap</string>
+</resources>
